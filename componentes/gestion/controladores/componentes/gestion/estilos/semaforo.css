@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30/03/2014, 10:47:52 PM
+    Author     : Software
+*/
+
+.indicador_rojo {
+    background-color: rgb(252, 76, 76);
+    font-stretch: condensed;
+    font-weight: bold;
+}
+.indicador_naranja {
+    background-color: #FABE4D;
+    font-stretch: condensed;
+    font-weight: bold;
+}
+.indicador_amarillo {
+    background-color: #ffe900;
+    font-stretch: condensed;
+    font-weight: bold;
+}
+.indicador_verde {
+    background-color: #4DFA90;
+    font-stretch: condensed;
+    font-weight: bold;
+}
+.indicador_superverde {
+    background-color: #27e833;
+    font-stretch: condensed;
+    font-weight: bold;
+}
+
